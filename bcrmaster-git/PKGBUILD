@@ -1,4 +1,5 @@
-# Maintainer: alesandar <alesandar@example.domain>
+# Maintainer: alesandar <publicvoid@tuta.io>
+
 pkgname=bcrmaster-git
 pkgver=1.0.4.r1.9d730c7
 pkgrel=1
