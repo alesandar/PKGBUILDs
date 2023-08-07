@@ -1,0 +1,6 @@
+[submodule "bcrmaster-git"]
+  path = bcrmaster-git
+  url = git://github.com/alesandar/bcrmaster-git
+[submodule "orca-desktop-git"]
+  path = orca-desktop-git
+  url = git://github.com/alesandar/orca-desktop-git.git
